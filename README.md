@@ -18,7 +18,6 @@ The project prioritizes **correctness, durability, and clarity of design** over 
 * Batch writes
 * Simple HTTP API
 * Environment-based configuration
-* Graceful shutdown
 
 ---
 
